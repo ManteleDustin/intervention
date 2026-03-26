@@ -27,12 +27,12 @@
     <h2>My Hobbies</h2>
 
 <div class="hobby">
-        <img src="images/hobby1.jpg" alt="Hobby 1">
-        <p>Playing Basketball</p>
+        <img src="https://img.freepik.com/premium-photo/person-jogging-nature-early-morning-hours-fresh-air-outdoor-exercise-scenic-views-nature-physical-activity-mental-clarity-mood-boost-high-resolution-generative-ai_661108-4564.jpg" alt="Hobby 1">
+        <p>jogging</p>
     </div>
 
 <div class="hobby">
-        <img src="images/hobby2.jpg" alt="Hobby 2">
+        <img src="https://thehake.com/wp-content/uploads/2026/03/airtable_69c3e479b8d01-1-760x567.webp" alt="Hobby 2">
         <p>Gaming</p>
     </div>
 </section>
