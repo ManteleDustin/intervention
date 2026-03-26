@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -20,7 +20,7 @@
   <img src="https://scontent.fmnl30-3.fna.fbcdn.net/v/t39.30808-1/600284105_1577787896586325_3445389563946953261_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeEm-Gh9vAJUQsucFa-Sez69ahQoojjYY_tqFCiiONhj-0HV3lPZiC9Yc95nPwK_2DLjELkut6OyPBA3FHqjuJNF&_nc_ohc=DqMrMPrTmSsQ7kNvwEO9GBh&_nc_oc=AdqwSIu-fkbS2bIqD9hY521JuDoHPeSb4uvkHCvjO_TnCxM7bQA8V8NZdn_-66fyoDk&_nc_zt=24&_nc_ht=scontent.fmnl30-3.fna&_nc_gid=2Ftvgw3tC_mx9trpYkOJ7Q&_nc_ss=7a32e&oh=00_Afx9FWwQ2eFcnLDSqYWmKo-aHUzk9EgzUzT6s8chAth1qg&oe=69CAA85F" alt="My Photo">
   <p>
     Hi! I'm Dustin. I am a Grade 11 TVL-ICT student. 
-    I love coding, gaming, and learning new technologies.
+    I love reading, gaming, and learning new things in life.
   </p>
 </section>
 
